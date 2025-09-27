@@ -1,6 +1,6 @@
 # Histogram-of-an-images
 
-# Developed By: RAMYA.P
+# Name : RAMYA.P
 # Register Number: 212223240137
 
 ## Aim
