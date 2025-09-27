@@ -1,4 +1,4 @@
-#Exp-03  Histogram-of-an-images
+# Exp-03  Histogram-of-an-images
 
 # Name : Ramya.P
 # Register Number: 212223240137
