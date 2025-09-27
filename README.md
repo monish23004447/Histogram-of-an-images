@@ -1,6 +1,6 @@
-# Histogram-of-an-images
+#Exp-03  Histogram-of-an-images
 
-# Name : RAMYA.P
+# Name : Ramya.P
 # Register Number: 212223240137
 
 ## Aim
